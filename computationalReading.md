@@ -6,9 +6,9 @@ output: html_document
 abtract: "An exercise in visual mapping and explainability for scientific literature exploration"
 ---
 
-|                                                                                                |                                                                            |
+| | |
 |:-------------------------------:|:-------------------------------------:|
-| ![Envisioning Information](~/Desktop/xai_demo/computationalReading/envisioningInformation.png) | ![Museum of Cognition](~/Desktop/xai_demo/computationalReading/museum.png) |
+|![Envisioning Information](https://github.com/alexandra-florea/computationalReading/blob/main/envisioningInformation.png)|![Museum of Cognition](https://github.com/alexandra-florea/computationalReading/blob/main/museum.png)|
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
