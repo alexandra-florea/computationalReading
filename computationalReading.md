@@ -1,18 +1,32 @@
 ---
-title: "computationalReading"
+project: SAIL 2.6
+title: "computationalReading exploration"
 author: "aflorea"
-date: "`r Sys.Date()`"
-output: html_document
-abtract: "An exercise in visual mapping and explainability for scientific literature exploration"
+abstract: "An exercise in visual mapping and explainability for scientific literature exploration"
 ---
+
 
 | | |
 |:-------------------------------:|:-------------------------------------:|
 |![Envisioning Information](https://github.com/alexandra-florea/computationalReading/blob/main/envisioningInformation.png)|![Museum of Cognition](https://github.com/alexandra-florea/computationalReading/blob/main/museum.png)|
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# Document structure
+
+-   [ ] Task Specification
+
+-   [ ] Report (visualisations)
+
+-   [ ] [Bibliography and Resources](#bibT)<a id ="bibC"></a>
+
+## [Task specification](#contentsC)<a id="contentsT"></a>
+
+## Report
+
+
 
 ## R Markdown
 
